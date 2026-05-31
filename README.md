@@ -2,9 +2,8 @@
 
 ##  About Me
 
-# B.Tech Computer Science Engineering Student
-
-# Passionate about Software Development, Data Structures & Algorithms, and Open Source
+* B.Tech Computer Science Engineering
+* Student Passionate about Software Development, Data Structures & Algorithms, and Open Source contributer.
 
 # Currently learning:
 
