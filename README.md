@@ -62,7 +62,7 @@
 
 ## Connect With Me
 
-Linkdin: https://www.linkedin.com/in/abhishek-kumar2006/
+
 GitHub: https://github.com/0000001abhishek-debug
 
 ⭐ If you like my work, feel free to follow me and check out my repositories!
